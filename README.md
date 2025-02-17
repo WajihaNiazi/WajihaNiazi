@@ -1,6 +1,6 @@
 # 🚀 Wajiha Niazi | Software Engineer  
 🌍 **Turning ideas into reality, one line of code at a time.**  
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)  
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding) 
 ## 👩‍💻 About Me  
 - 💻 **Software Engineer @ GitStart Community**  
 - 🌱 Currently diving deep into **Next.js, ESLint, and GraphQL APIs**  
