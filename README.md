@@ -12,6 +12,10 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
+### 🌐 [Portfolio Website](https://wajihaniazi.netlify.app/)
+My personal portfolio built with **React** and **Tailwind CSS** — showcasing projects, blogs, and achievements.
+![Wajiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wajiha-Niazi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Niazi&layout=compact&theme=radical)
 ## 🌟 Let's Connect!  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wajiha-niazi-9b4991200/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Wajiha-Niazi)  [![Email](https://img.shields.io/badge/Email-wajihaniazi22@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajihaniazi22@gmail.com) 
 ## 🌍 Languages  
