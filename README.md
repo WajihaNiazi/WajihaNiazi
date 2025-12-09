@@ -16,7 +16,7 @@
 My personal portfolio built with **React** and **Tailwind CSS** — showcasing projects, blogs, and achievements.
 
 ## 🌟 Let's Connect!  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wajiha-niazi-9b4991200/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Wajiha-Niazi)  [![Email](https://img.shields.io/badge/Email-wajihaniazi22@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajihaniazi22@gmail.com) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wajiha-niazi-9b4991200/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/WajihaNiazi)  [![Email](https://img.shields.io/badge/Email-wajihaniazi22@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajihaniazi22@gmail.com) 
 ## 🌍 Languages  
 - **English:** Very good command  
 - **Persian & Pashto:** Native proficiency
