@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me  
 - 💻 **Software Engineer @ GitStart Community**  
-- 🌱 Currently diving deep into **Next.js, ESLint, and GraphQL APIs**  
+- 🌱 Currently diving deep into **Next.js, and GraphQL APIs**  
 - 🔥 Passionate about **clean code, open-source, and problem-solving**  
 - 🌏 Based in **Afghanistan** but coding knows no borders 🚀  
 - 💪 Navigating the tech world while overcoming barriers 💙  
