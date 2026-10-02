@@ -23,4 +23,4 @@ My personal portfolio built with **React** and **Tailwind CSS** — showcasing m
 ## 🌍 Languages  
 - **English:** Professional working proficiency  
 - **Persian:** Native proficiency  
-- **Pashto:** Native proficiency  
+- **Pashto:** Native proficiency
