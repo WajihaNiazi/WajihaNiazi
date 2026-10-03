@@ -1,6 +1,5 @@
 # 🚀 Wajiha Niazi | Full-Stack Software Engineer  
 🌍 **Turning ideas into reality, one line of code at a time.**  
-
 ## 👩‍💻 About Me  
 - 💻 **Full-Stack Software Engineer | Ex-GitStart (YC S19)**  
 - 🌱 Currently building with **React, Node.js, TypeScript, Next.js, and GraphQL**  
